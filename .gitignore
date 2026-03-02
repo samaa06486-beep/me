@@ -1,0 +1,65 @@
+# Windows system files
+NTUSER.DAT*
+ntuser.dat.*
+Application Data/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Development tool directories
+.VirtualBox/
+.android/
+.cache/
+.codegpt/
+.codeium/
+.config/
+.cursor/
+.dbclient/
+.dotnet/
+.easycode/
+.expo/
+.gradle/
+.jdks/
+.keras/
+.m2/
+.matplotlib/
+.nbi/
+.ssh/
+.vscode/
+.windsurf/
+
+# User directories
+3D Objects/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+StudioProjects/
+Videos/
+VirtualBox VMs/
+curseforge/
+
+# Log files and temporary files
+*.log
+AMDRM_Install.log
+emulator_console_auth_token
+.bash_history
+.node_repl_history
+
+# Git configuration
+.gitconfig
+
+# Other system files
+mkdir

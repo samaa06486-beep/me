@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-c58ca61b-8244-45d2-9e5d-422a87ca8f6b.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 83b7bcc1-3b62-4d77-a97c-4065eb75af0a"
+  },
+  "pid": 14568,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1777194180362,
+  "workspaceFolders": [
+    "c:\\Users\\youss\\OneDrive\\Desktop\\DataMining"
+  ],
+  "isTrusted": true
+}

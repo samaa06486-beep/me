@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-9c465b1f-a72d-4c96-b29f-89e95cd6c053.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 5f733a45-4820-4483-b813-6da5dca5ae4f"
+  },
+  "pid": 14852,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1777193513971,
+  "workspaceFolders": [
+    "d:\\Me\\flutter\\Done\\mysterybag"
+  ],
+  "isTrusted": true
+}
